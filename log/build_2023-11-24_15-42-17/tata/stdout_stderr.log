@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/tata/tata.egg-info/PKG-INFO
+writing dependency_links to ../../build/tata/tata.egg-info/dependency_links.txt
+writing entry points to ../../build/tata/tata.egg-info/entry_points.txt
+writing requirements to ../../build/tata/tata.egg-info/requires.txt
+writing top-level names to ../../build/tata/tata.egg-info/top_level.txt
+reading manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+writing manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying launch/map.launch.py -> /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+copying launch/nav2.launch.py -> /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+running install_egg_info
+removing '/home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/tata/tata.egg-info to /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tata script to /home/gabriel/ponderadaslamm8/install/tata/lib/tata
+writing list of installed files to '/home/gabriel/ponderadaslamm8/build/tata/install.log'

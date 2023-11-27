@@ -1,0 +1,38 @@
+running egg_info
+creating ../../build/tata/tata.egg-info
+writing ../../build/tata/tata.egg-info/PKG-INFO
+writing dependency_links to ../../build/tata/tata.egg-info/dependency_links.txt
+writing entry points to ../../build/tata/tata.egg-info/entry_points.txt
+writing requirements to ../../build/tata/tata.egg-info/requires.txt
+writing top-level names to ../../build/tata/tata.egg-info/top_level.txt
+writing manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+reading manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+writing manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/gabriel/ponderadaslamm8/build/tata/build
+creating /home/gabriel/ponderadaslamm8/build/tata/build/lib
+creating /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+copying tata/__init__.py -> /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+copying tata/tata.py -> /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+running install
+running install_lib
+creating /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+copying /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata/__init__.py -> /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+copying /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata/tata.py -> /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+byte-compiling /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata/tata.py to tata.cpython-310.pyc
+running install_data
+creating /home/gabriel/ponderadaslamm8/install/tata/share/ament_index
+creating /home/gabriel/ponderadaslamm8/install/tata/share/ament_index/resource_index
+creating /home/gabriel/ponderadaslamm8/install/tata/share/ament_index/resource_index/packages
+copying resource/tata -> /home/gabriel/ponderadaslamm8/install/tata/share/ament_index/resource_index/packages
+copying package.xml -> /home/gabriel/ponderadaslamm8/install/tata/share/tata
+creating /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+copying launch/map.launch.py -> /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+copying launch/nav2.launch.py -> /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+running install_egg_info
+Copying ../../build/tata/tata.egg-info to /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tata script to /home/gabriel/ponderadaslamm8/install/tata/lib/tata
+writing list of installed files to '/home/gabriel/ponderadaslamm8/build/tata/install.log'

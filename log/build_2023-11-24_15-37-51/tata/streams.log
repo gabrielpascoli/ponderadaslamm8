@@ -1,0 +1,40 @@
+[1.254s] Invoking command in '/home/gabriel/ponderadaslamm8/src/tata': PYTHONPATH=/home/gabriel/ponderadaslamm8/build/tata/prefix_override:/home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tata build --build-base /home/gabriel/ponderadaslamm8/build/tata/build install --record /home/gabriel/ponderadaslamm8/build/tata/install.log --single-version-externally-managed
+[1.628s] running egg_info
+[1.629s] creating ../../build/tata/tata.egg-info
+[1.629s] writing ../../build/tata/tata.egg-info/PKG-INFO
+[1.630s] writing dependency_links to ../../build/tata/tata.egg-info/dependency_links.txt
+[1.630s] writing entry points to ../../build/tata/tata.egg-info/entry_points.txt
+[1.630s] writing requirements to ../../build/tata/tata.egg-info/requires.txt
+[1.631s] writing top-level names to ../../build/tata/tata.egg-info/top_level.txt
+[1.631s] writing manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+[1.634s] reading manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+[1.636s] writing manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+[1.636s] running build
+[1.636s] running build_py
+[1.637s] creating /home/gabriel/ponderadaslamm8/build/tata/build
+[1.637s] creating /home/gabriel/ponderadaslamm8/build/tata/build/lib
+[1.637s] creating /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+[1.637s] copying tata/__init__.py -> /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+[1.637s] copying tata/tata.py -> /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+[1.638s] running install
+[1.638s] running install_lib
+[1.639s] creating /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+[1.639s] copying /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata/__init__.py -> /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+[1.639s] copying /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata/tata.py -> /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+[1.640s] byte-compiling /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata/__init__.py to __init__.cpython-310.pyc
+[1.640s] byte-compiling /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata/tata.py to tata.cpython-310.pyc
+[1.641s] running install_data
+[1.642s] creating /home/gabriel/ponderadaslamm8/install/tata/share/ament_index
+[1.642s] creating /home/gabriel/ponderadaslamm8/install/tata/share/ament_index/resource_index
+[1.642s] creating /home/gabriel/ponderadaslamm8/install/tata/share/ament_index/resource_index/packages
+[1.643s] copying resource/tata -> /home/gabriel/ponderadaslamm8/install/tata/share/ament_index/resource_index/packages
+[1.643s] copying package.xml -> /home/gabriel/ponderadaslamm8/install/tata/share/tata
+[1.643s] creating /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+[1.643s] copying launch/map.launch.py -> /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+[1.644s] copying launch/nav2.launch.py -> /home/gabriel/ponderadaslamm8/install/tata/share/tata/launch
+[1.644s] running install_egg_info
+[1.646s] Copying ../../build/tata/tata.egg-info to /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata-0.0.0-py3.10.egg-info
+[1.648s] running install_scripts
+[1.676s] Installing tata script to /home/gabriel/ponderadaslamm8/install/tata/lib/tata
+[1.676s] writing list of installed files to '/home/gabriel/ponderadaslamm8/build/tata/install.log'
+[1.711s] Invoked command in '/home/gabriel/ponderadaslamm8/src/tata' returned '0': PYTHONPATH=/home/gabriel/ponderadaslamm8/build/tata/prefix_override:/home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tata build --build-base /home/gabriel/ponderadaslamm8/build/tata/build install --record /home/gabriel/ponderadaslamm8/build/tata/install.log --single-version-externally-managed
