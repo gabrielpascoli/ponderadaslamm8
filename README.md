@@ -34,3 +34,5 @@ O tarta_launch.py ativa pacotes como turtlebot3_navigation2, turtlebot3_gazebo e
 Vídeo do Tartabot
 
 Confira o funcionamento do Tartabot assistindo ao vídeo a seguir: [https://youtu.be/JIBQrefWRmw]
+
+parte 2 do video [https://youtu.be/khgPnJYyelk]

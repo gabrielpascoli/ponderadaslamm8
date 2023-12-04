@@ -22,6 +22,7 @@ def create_pose_stamped(navigator, pos_x, pos_y):
 def main():
     rclpy.init()
     nav = BasicNavigator()
+    nav.waitUntilNav2Active()
 
     nav.setInitialPose(create_pose_stamped(nav, 0.0, 0.0))
     

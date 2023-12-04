@@ -1,0 +1,24 @@
+[1.312s] Invoking command in '/home/gabriel/ponderadaslamm8/src/tata': PYTHONPATH=/home/gabriel/ponderadaslamm8/build/tata/prefix_override:/home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tata build --build-base /home/gabriel/ponderadaslamm8/build/tata/build install --record /home/gabriel/ponderadaslamm8/build/tata/install.log --single-version-externally-managed
+[1.671s] running egg_info
+[1.672s] writing ../../build/tata/tata.egg-info/PKG-INFO
+[1.672s] writing dependency_links to ../../build/tata/tata.egg-info/dependency_links.txt
+[1.673s] writing entry points to ../../build/tata/tata.egg-info/entry_points.txt
+[1.673s] writing requirements to ../../build/tata/tata.egg-info/requires.txt
+[1.673s] writing top-level names to ../../build/tata/tata.egg-info/top_level.txt
+[1.676s] reading manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+[1.678s] writing manifest file '../../build/tata/tata.egg-info/SOURCES.txt'
+[1.678s] running build
+[1.679s] running build_py
+[1.679s] copying tata/tata.py -> /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata
+[1.679s] running install
+[1.680s] running install_lib
+[1.682s] copying /home/gabriel/ponderadaslamm8/build/tata/build/lib/tata/tata.py -> /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata
+[1.683s] byte-compiling /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata/tata.py to tata.cpython-310.pyc
+[1.684s] running install_data
+[1.686s] running install_egg_info
+[1.688s] removing '/home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata-0.0.0-py3.10.egg-info' (and everything under it)
+[1.689s] Copying ../../build/tata/tata.egg-info to /home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages/tata-0.0.0-py3.10.egg-info
+[1.690s] running install_scripts
+[1.716s] Installing tata script to /home/gabriel/ponderadaslamm8/install/tata/lib/tata
+[1.716s] writing list of installed files to '/home/gabriel/ponderadaslamm8/build/tata/install.log'
+[1.751s] Invoked command in '/home/gabriel/ponderadaslamm8/src/tata' returned '0': PYTHONPATH=/home/gabriel/ponderadaslamm8/build/tata/prefix_override:/home/gabriel/ponderadaslamm8/install/tata/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/tata build --build-base /home/gabriel/ponderadaslamm8/build/tata/build install --record /home/gabriel/ponderadaslamm8/build/tata/install.log --single-version-externally-managed
